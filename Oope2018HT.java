@@ -1,9 +1,11 @@
 import oope2018ht.kaytto.*;
 
 /**
- *
- * @author Roni
+ * Oope2018HT
+ * @author Roni Perälä
  */
+
+// Ohjelman käynnistävä ajoluokka
 public class Oope2018HT {
 
     /**
